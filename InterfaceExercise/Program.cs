@@ -11,7 +11,7 @@ namespace InterfaceExercise
             archer.make = "Thorton";
             archer.model = "Colby";
             archer.year = 2077;
-            archer.hasweapons = "None";
+            archer.hasWeapons = "None";
             archer.engineSpeed = 90;
             archer.location = "NightCity Mox Club";
             archer.slogan = "Style over Substance";
@@ -24,7 +24,7 @@ namespace InterfaceExercise
             kuma.make = "Mahir Supron";
             kuma.model = "Trailbruiser";
             kuma.year = 2077;
-            kuma.hasweapons = "Missiles and front machine guns";
+            kuma.hasWeapons = "Missiles and front machine guns";
             kuma.engineSpeed = 95;
             kuma.location = "Nightcity Delimann Garage";
             kuma.slogan = "Armored and ready for Dogtown";
@@ -38,7 +38,7 @@ namespace InterfaceExercise
             make = "Thorton Mackinaw",
             model = "Saguaro",
             year = 2077,
-            hasweapons = "Side Guns",
+            hasWeapons = "Side Guns",
             engineSpeed = 125,
             location = "NightCity Dakota",
             slogan = "When you value function over form",

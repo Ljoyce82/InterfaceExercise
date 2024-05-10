@@ -10,7 +10,7 @@ namespace InterfaceExercise
     {
         public int numberOfWheels { get; set; }
         public int numberOfDoors { get; set; }
-        public string hasweapons { get; set;}
+        public string hasWeapons { get; set;}
         public int engineSpeed { get; set;}
         public string make { get; set; }
         public string model { get; set; }
